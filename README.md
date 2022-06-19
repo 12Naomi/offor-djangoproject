@@ -1,0 +1,2 @@
+# offor-djangoproject
+Django urls
